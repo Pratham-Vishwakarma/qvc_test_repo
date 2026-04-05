@@ -1,0 +1,4 @@
+scikit-learn
+qiskit
+qiskit_machine_learning
+qvc
